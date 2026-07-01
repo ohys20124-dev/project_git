@@ -4,7 +4,6 @@ public class Branch01 {
     
 
     public Branch01(){
-        System.out.println("충돌 테스트");
-        System.out.println("다음 브랜치에서 작업");
+        System.out.println("구글 브랜치와 충돌된 버전 통합 완료");
     }
 }
